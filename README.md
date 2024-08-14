@@ -1,5 +1,4 @@
-# To-Do List Application
-
+<h1 style="text-align:center; font-size:64px;">To-Do List Application</h1>
 This project is a simple, interactive To-Do List application built using HTML, CSS, and JavaScript. It allows users to add tasks, mark them as completed, delete tasks, and filter tasks based on their status. The application also stores tasks in the browser's local storage, ensuring they persist even after a page refresh.
 
 ## Table of Contents
